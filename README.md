@@ -1,5 +1,5 @@
 # Simple-Chronometer
 
-![desktop](http://url/to/img.png)
+![Desktop](https://raw.githubusercontent.com/rrricardo00/Simple-Chronometer/main/desktop.png)
 
-![img](http://url/to/img.png)
+![Mobile](https://raw.githubusercontent.com/rrricardo00/Simple-Chronometer/main/mobile.png)
