@@ -1,4 +1,4 @@
-const data = new Date('2021, January, 01').getTime();
+const data = new Date('2022, January, 01').getTime();
 
 
 function timer() {
